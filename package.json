@@ -1,0 +1,24 @@
+{
+  "name": "omnistack-week-8",
+  "version": "1.0.0",
+  "description": "Projeto da semana Omnistack 7 com Diego Fernandes CTO | Rocketseat.",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osmarleandro/omnistack-week-8.git"
+  },
+  "author": "Osmar Leandro <osmarleandrods@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osmarleandro/omnistack-week-8/issues"
+  },
+  "homepage": "https://github.com/osmarleandro/omnistack-week-8#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
